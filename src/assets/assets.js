@@ -1,4 +1,4 @@
-import add_icon_white from './add-White.png'
+import add_icon_white from './add-white.png'
 import add_icon_green from './add_green.png'
 import remove_icon from './remove.png'
 import searchIcon from './search.png'
